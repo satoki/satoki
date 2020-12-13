@@ -1,10 +1,10 @@
 # 😈Hack
 
-### 2020
-🐞[Google Vulnerability Reward Program](https://bughunter.withgoogle.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102)  
+## 2020
+🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Abuse-related methodologies ($?)  
 
-🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/specialthanks/)  
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-1563  
 - CyVDB-1780  
 - CyVDB-2651  
@@ -15,11 +15,11 @@
 - CVE-2020-5613  
 - CVE-2020-5614  
 
-### 2019
-🐞[Google Vulnerability Reward Program](https://bughunter.withgoogle.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102)  
+## 2019
+🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security vulnerabilities ($5000.00)  
 
-🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/specialthanks/)  
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-2511  
 - CyVDB-2516  
 - CyVDB-2529  
