@@ -2,7 +2,7 @@
 
 ## 2020
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
-- Abuse-Related Methodologies ($?)  
+- Security Vulnerabilities ($0)  
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-1563  
