@@ -1,9 +1,10 @@
 # 😈Hack
 
-## 2020
+## 2021
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
-- Security Vulnerabilities ($0)  
+- Security Vulnerabilities  
 
+## 2020
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-1563  
 - CyVDB-1620  
@@ -18,7 +19,7 @@
 
 ## 2019
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
-- Security Vulnerabilities ($5000.00)  
+- Security Vulnerabilities  
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-2511  
