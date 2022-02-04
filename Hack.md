@@ -1,5 +1,9 @@
 # 😈Hack
 
+## 2022
+🐞[Common Vulnerabilities and Exposures](https://cve.mitre.org/)  
+- CVE-2022-21241  
+
 ## 2021
 🐞[Secure@Sony](https://secure.sony.net/)  
 - HackerOne #1192305  
