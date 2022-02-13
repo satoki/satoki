@@ -1,7 +1,7 @@
 # 😈Hack
 
 ## 2022
-🐞[Common Vulnerabilities and Exposures](https://cve.mitre.org/)  
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2022-21241  
 
 ## 2021
@@ -19,7 +19,7 @@
 - CyVDB-2651  
 - CyVDB-2652  
 
-🐞[Common Vulnerabilities and Exposures](https://cve.mitre.org/)  
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2020-5612  
 - CVE-2020-5613  
 - CVE-2020-5614  
