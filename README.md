@@ -8,8 +8,6 @@
 
 ## 😈[Hack](Hack.md)
 
-## 💩[PoC](https://github.com/search?q=user%3Asatoki+%5BPoC%5D)
-
 ## 🏆Awards
 📃CSS優秀論文賞(2021) 「Androidアプリの自動リンクにおける悪意のあるリンク生成リスクの検討」  
 📃ICSS研究賞(2020) 「仮想背景を使用したリモート会議映像における秘匿された背景の再構築手法」  
