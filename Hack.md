@@ -5,9 +5,6 @@
 - CVE-2022-21241  
 
 ## 2021
-🐞[Secure@Sony](https://secure.sony.net/)  
-- HackerOne #1192305  
-
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security Vulnerabilities  
 
