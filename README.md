@@ -3,6 +3,7 @@
 [![Google Bug Hunters](Badges/Google_Bug_Hunters-2-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
 [![Cybozu Bug Bounty](Badges/Cybozu_Bug_Bounty-8-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/en/) 
 [![SecHack365](Badges/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
+[![Security Next Camp](Badges/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/) 
 [![SECCON Beginners](Badges/SECCON_Beginners-21,_22-66ee33.svg)](https://www.seccon.jp/2022/)  
 
 👻 Cyber Security Engineer ?  
