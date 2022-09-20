@@ -4,6 +4,9 @@
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2022-21241  
 
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2022-40956  
+
 ## 2021
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security Vulnerabilities  
