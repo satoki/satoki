@@ -3,6 +3,9 @@
 ## 2022
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2022-21241  
+- CVE-2022-41642  
+- CVE-2022-41777  
+- CVE-2022-42496  
 
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
 - CVE-2022-40956  
