@@ -6,14 +6,12 @@
 [![SecHack365](Badges/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
 [![Security Next Camp](Badges/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/)  
 [![AVTOKYO](Badges/AVTOKYO-2020-000000.svg)](https://www.avtokyo.org/) 
-[![SECCON Beginners](Badges/SECCON_Beginners-21,_22-66ee33.svg)](https://www.seccon.jp/)  
+[![SECCON](Badges/SECCON-2023-e41012.svg)](https://www.seccon.jp/) 
+[![SECCON Beginners](Badges/SECCON_Beginners-2021-23-66ee33.svg)](https://www.seccon.jp/)  
+[![DEF CON CTF](Badges/DEF_CON_CTF-30-7777ff.svg)](https://defcon.org/)  
 
 👻 Cyber Security Engineer ?  
 
 ## 😈[Hack](Hack.md)
 
-## 🏆Awards
-📃「Androidアプリの自動リンクにおける悪意のあるリンク生成リスクの検討」  
-CSS優秀論文賞(2021), SEC道後学生研究賞(2022), SEC道後最優秀学生研究賞(2022)  
-📃「仮想背景を使用したリモート会議映像における秘匿された背景の再構築手法」  
-ICSS研究賞(2020)  
+## 🏆[Awards](Awards.md)
