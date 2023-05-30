@@ -8,7 +8,7 @@
 [![AVTOKYO](Badges/AVTOKYO-2020-000000.svg)](https://www.avtokyo.org/) 
 [![SECCON](Badges/SECCON-2023-e41012.svg)](https://www.seccon.jp/) 
 [![SECCON Beginners](Badges/SECCON_Beginners-2021-23-66ee33.svg)](https://www.seccon.jp/)  
-[![DEF CON CTF](Badges/DEF_CON_CTF-30-7777ff.svg)](https://defcon.org/)  
+[![DEF CON CTF](Badges/DEF_CON_CTF-30,_31-7777ff.svg)](https://defcon.org/)  
 
 👻 Cyber Security Engineer ?  
 
