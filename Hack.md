@@ -4,6 +4,9 @@
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security Vulnerabilities  
 
+🐞[Vulnerability Research Grants](https://www.google.com/about/appsecurity/research-grants/)  
+- Security Research  
+
 ## 2022
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2022-21241  
