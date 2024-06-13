@@ -1,5 +1,9 @@
 # 😈Hack
 
+## 2024
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2024-5690  
+
 ## 2023
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security Vulnerabilities  
