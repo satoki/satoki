@@ -11,7 +11,7 @@
 [![DEF CON CTF Finals (Player)](https://img.shields.io/badge/DEF_CON_CTF_Finals_(Player)-30,_31,_32-7777ff.svg)](https://defcon.org/) 
 [![DiceCTF Finals (Player)](https://img.shields.io/badge/DiceCTF_Finals_(Player)-2024-dd2e44.svg)](https://dicega.ng/) 
 [![MOCA CTF Finals (Player)](https://img.shields.io/badge/MOCA_CTF_Finals_(Player)-2024-37e176.svg)](https://moca.camp/) 
-[![SAS CTF Finals (Player)](https://img.shields.io/badge/SAS_CTF_Finals_(Player)-2024-235254.svg)](https://ctf.thesascon.com/)  
+[![SAS CTF Finals (Player)](https://img.shields.io/badge/SAS_CTF_Finals_(Player)-2024-04b196.svg)](https://ctf.thesascon.com/)  
 [![SecHack365](https://img.shields.io/badge/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
 [![Security Next Camp](https://img.shields.io/badge/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/)  
 
