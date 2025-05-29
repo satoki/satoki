@@ -1,7 +1,7 @@
 # I'm Satoki Tsuji
-[![CVE](https://img.shields.io/badge/CVE-10-f68826.svg)](https://www.cve.org/) 
+[![CVE](https://img.shields.io/badge/CVE-11-f68826.svg)](https://www.cve.org/) 
 [![Google Bug Hunters](https://img.shields.io/badge/Google_Bug_Hunters-4-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
-[![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-3-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
+[![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-4-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
 [![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-8-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
 [![AVTOKYO (Speaker)](https://img.shields.io/badge/AVTOKYO_(Speaker)-2020,_2023,_2024-000000.svg)](https://www.avtokyo.org/) 
 [![Hack Fes. (Speaker)](https://img.shields.io/badge/Hack_Fes._(Speaker)-2024-0d6fb8.svg)](https://www.hacker.or.jp/hack-fes-2024/) 

@@ -1,5 +1,9 @@
 # 😈Hack
 
+## 2025
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2025-5271  
+
 ## 2024
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
 - CVE-2024-5690  
