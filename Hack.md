@@ -10,9 +10,6 @@
 - CVE-2024-9398  
 
 ## 2023
-🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
-- Security Vulnerabilities  
-
 🐞[Google Vulnerability Research Grants](https://www.google.com/about/appsecurity/research-grants/)  
 - Security Research  
 
@@ -25,10 +22,6 @@
 
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
 - CVE-2022-40956  
-
-## 2021
-🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
-- Security Vulnerabilities  
 
 ## 2020
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
