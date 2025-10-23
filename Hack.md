@@ -7,6 +7,10 @@
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2025-55037  
 - CVE-2025-55671  
+- CVE-2025-62423 (co-authored)  
+- CVE-2025-62424 (co-authored)  
+- CVE-2025-62429 (co-authored)  
+- CVE-2025-62430 (co-authored)  
 
 ## 2024
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
