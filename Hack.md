@@ -11,6 +11,10 @@
 - CVE-2025-62424 (co-authored)  
 - CVE-2025-62429 (co-authored)  
 - CVE-2025-62430 (co-authored)  
+- CVE-2025-62715  
+- CVE-2025-64336  
+- CVE-2025-64338  
+- CVE-2025-64339  
 
 ## 2024
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  

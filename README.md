@@ -1,5 +1,5 @@
 # I'm Satoki Tsuji
-[![CVE](https://img.shields.io/badge/CVE-17-f68826.svg)](https://www.cve.org/) 
+[![CVE](https://img.shields.io/badge/CVE-21-f68826.svg)](https://www.cve.org/) 
 [![Google Bug Hunters](https://img.shields.io/badge/Google_Bug_Hunters-2-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
 [![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-4-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
 [![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-8-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
@@ -15,8 +15,8 @@
 [![SECCON Beginners (Organizer)](https://img.shields.io/badge/SECCON_Beginners_(Organizer)-2021--25-66ee33.svg)](https://www.seccon.jp/)  
 [![DEF CON CTF Finals (Player)](https://img.shields.io/badge/DEF_CON_CTF_Finals_(Player)-30,_31,_32,_33-7777ff.svg)](https://defcon.org/) 
 [![MOCA CTF Finals (Player)](https://img.shields.io/badge/MOCA_CTF_Finals_(Player)-2024-37e176.svg)](https://moca.camp/) 
+[![DefCamp CTF Finals (Player)](https://img.shields.io/badge/DefCamp_CTF_Finals_(Player)-2024-0071ce.svg)](https://def.camp/) 
 [![SAS CTF Finals (Player)](https://img.shields.io/badge/SAS_CTF_Finals_(Player)-2024,_2025-37ddd9.svg)](https://ctf.thesascon.com/) 
-[![DefCamp CTF Finals (Player)](https://img.shields.io/badge/DefCamp_CTF_Finals_(Player)-2024,_2025-0071ce.svg)](https://def.camp/) 
 [![Midnight Flag CTF Finals (Player)](https://img.shields.io/badge/Midnight_Flag_CTF_Finals_(Player)-2025-6f31a7.svg)](https://midnightflag.fr/)  
 [![SecHack365](https://img.shields.io/badge/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
 [![Security Next Camp](https://img.shields.io/badge/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/) 
