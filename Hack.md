@@ -15,6 +15,7 @@
 - CVE-2025-64336  
 - CVE-2025-64338  
 - CVE-2025-64339  
+- CVE-2025-67713  
 
 ## 2024
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
