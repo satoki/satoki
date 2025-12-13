@@ -11,7 +11,7 @@
 [![HITCON (Speaker)](https://img.shields.io/badge/HITCON_(Speaker)-2025-000000.svg)](https://hitcon.org/) 
 [![Queen City Conference (Speaker)](https://img.shields.io/badge/Queen_City_Conference_(Speaker)-2025-8b0e00.svg)](https://queencitycon.org/) 
 [![DefCamp (Speaker)](https://img.shields.io/badge/DefCamp_(Speaker)-2025*2-0071ce.svg)](https://def.camp/)  
-[![SECCON (Organizer)](https://img.shields.io/badge/SECCON_(Organizer)-2023--24-e41012.svg)](https://www.seccon.jp/) 
+[![SECCON (Organizer)](https://img.shields.io/badge/SECCON_(Organizer)-2023,_2024-e41012.svg)](https://www.seccon.jp/) 
 [![SECCON Beginners (Organizer)](https://img.shields.io/badge/SECCON_Beginners_(Organizer)-2021--24-66ee33.svg)](https://www.seccon.jp/)  
 [![DEF CON CTF Finals (Player)](https://img.shields.io/badge/DEF_CON_CTF_Finals_(Player)-30,_31,_32,_33-7777ff.svg)](https://defcon.org/) 
 [![MOCA CTF Finals (Player)](https://img.shields.io/badge/MOCA_CTF_Finals_(Player)-2024-37e176.svg)](https://moca.camp/) 
