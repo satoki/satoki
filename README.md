@@ -1,5 +1,5 @@
 # I'm Satoki Tsuji
-[![CVE](https://img.shields.io/badge/CVE-22-f68826.svg)](https://www.cve.org/) 
+[![CVE](https://img.shields.io/badge/CVE-23-f68826.svg)](https://www.cve.org/) 
 [![Google Bug Hunters](https://img.shields.io/badge/Google_Bug_Hunters-2-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
 [![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-4-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
 [![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-8-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
