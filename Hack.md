@@ -1,6 +1,9 @@
 # 😈Hack
 
 ## 2026
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2026-4717  
+
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-3665  
 
