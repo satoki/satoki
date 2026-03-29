@@ -6,6 +6,7 @@
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-3665  
+- CyVDB-4338  
 
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2026-26005 (co-authored)  
