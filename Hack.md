@@ -5,6 +5,7 @@
 - CVE-2026-4717  
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+- CyVDB-2517  
 - CyVDB-3665  
 - CyVDB-4338  
 
