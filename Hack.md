@@ -9,6 +9,7 @@
 - CyVDB-3665  
 - CyVDB-4338  
 - CyVDB-4345  
+- CyVDB-4347  
 
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2026-26005 (co-authored)  
