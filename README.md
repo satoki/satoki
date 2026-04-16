@@ -2,7 +2,7 @@
 [![CVE](https://img.shields.io/badge/CVE-24-f68826.svg)](https://www.cve.org/) 
 [![Google Bug Hunters](https://img.shields.io/badge/Google_Bug_Hunters-2-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
 [![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-5-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
-[![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-14-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
+[![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-15-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
 [![AVTOKYO (Speaker)](https://img.shields.io/badge/AVTOKYO_(Speaker)-2020,_2023,_2024,_2025-000000.svg)](https://www.avtokyo.org/) 
 [![Hack Fes. (Speaker)](https://img.shields.io/badge/Hack_Fes._(Speaker)-2024-0d6fb8.svg)](https://www.hacker.or.jp/hack-fes-2024/) 
 [![Security Analyst Summit (Speaker)](https://img.shields.io/badge/Security_Analyst_Summit_(Speaker)-2024-37ddd9.svg)](https://thesascon.com/) 
