@@ -7,6 +7,7 @@
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-2517  
 - CyVDB-3665  
+- CyVDB-4078  
 - CyVDB-4338  
 - CyVDB-4344  
 - CyVDB-4345  
