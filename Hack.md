@@ -1,6 +1,11 @@
 # 😈Hack
 
 ## 2026
+💥[Pwn2Own Berlin 2026](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule)  
+- Megatron Bridge (Prize:$20,000/Master of Pwn Points:2)  
+- LiteLLM (Prize:$8,000/Master of Pwn Points:1.75)  
+- OpenAI Codex (Prize:$20,000/Master of Pwn Points:4)  
+
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
 - CVE-2026-4717  
 - CVE-2026-6768  

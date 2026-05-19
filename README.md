@@ -25,6 +25,7 @@
 [![SecHack365](https://img.shields.io/badge/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
 [![Security Next Camp](https://img.shields.io/badge/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/) 
 [![MITOU ADVANCED](https://img.shields.io/badge/MITOU_ADVANCED-2025-d90000.svg)](https://www.ipa.go.jp/jinzai/mitou/advanced/index.html)  
+[![Pwn2Own Berlin 2026](https://img.shields.io/badge/Pwn2Own_Berlin_2026-3-1b8fd5.svg)](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule)  
 
 👻 Cyber Security Engineer ?  
 
