@@ -10,6 +10,8 @@
 - CVE-2026-4717  
 - CVE-2026-6768  
 - CVE-2026-6769 (co-discovered)  
+- CVE-2026-8947  
+- CVE-2026-8964  
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 - CyVDB-2517  
