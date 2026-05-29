@@ -13,7 +13,7 @@
 - CVE-2026-8947  
 - CVE-2026-8964  
 
-🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
 - CyVDB-2517  
 - CyVDB-3665  
 - CyVDB-4078  
@@ -63,7 +63,7 @@
 - CVE-2022-42496  
 
 ## 2020
-🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
 - CyVDB-1563  
 - CyVDB-1620  
 - CyVDB-1780  
@@ -79,7 +79,7 @@
 🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
 - Security Vulnerabilities  
 
-🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
 - CyVDB-2511  
 - CyVDB-2516  
 - CyVDB-2529  
