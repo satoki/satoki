@@ -26,6 +26,7 @@
 
 🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
 - CVE-2026-26005 (co-authored)  
+- CVE-2026-56808 (co-authored)  
 - CVE-2026-8913 (co-authored)  
 
 ## 2025
