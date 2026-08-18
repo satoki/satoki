@@ -13,6 +13,7 @@
 - CVE-2026-8947  
 - CVE-2026-8964  
 - CVE-2026-16373  
+- CVE-2026-74953  
 
 🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
 - CyVDB-2517  
