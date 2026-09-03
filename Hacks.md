@@ -1,0 +1,90 @@
+# 😈Hacks
+
+## 2026
+💥[Pwn2Own Berlin 2026](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule)  
+- Megatron Bridge (Prize:$20,000 / Master of Pwn Points:2)  
+- LiteLLM (Prize:$8,000 / Master of Pwn Points:1.75)  
+- OpenAI Codex (Prize:$20,000 / Master of Pwn Points:4)  
+
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2026-4717  
+- CVE-2026-6768  
+- CVE-2026-6769 (co-discovered)  
+- CVE-2026-8947  
+- CVE-2026-8964  
+- CVE-2026-16373  
+- CVE-2026-74953  
+
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
+- CyVDB-2517  
+- CyVDB-3665  
+- CyVDB-4078  
+- CyVDB-4338  
+- CyVDB-4341  
+- CyVDB-4344  
+- CyVDB-4345  
+- CyVDB-4347  
+- CyVDB-4348  
+
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
+- CVE-2026-8913 (co-authored)  
+- CVE-2026-26005 (co-authored)  
+- CVE-2026-56808 (co-authored)  
+
+## 2025
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2025-5271  
+
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
+- CVE-2025-55037  
+- CVE-2025-55671  
+- CVE-2025-62423 (co-authored)  
+- CVE-2025-62424 (co-authored)  
+- CVE-2025-62429 (co-authored)  
+- CVE-2025-62430 (co-authored)  
+- CVE-2025-62715  
+- CVE-2025-64336  
+- CVE-2025-64338  
+- CVE-2025-64339  
+- CVE-2025-67713  
+
+## 2024
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2024-5690  
+- CVE-2024-9398  
+
+## 2023
+🐞[Google Vulnerability Research Grants](https://www.google.com/about/appsecurity/research-grants/)  
+- Security Research  
+
+## 2022
+🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
+- CVE-2022-40956  
+
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
+- CVE-2022-21241  
+- CVE-2022-41642  
+- CVE-2022-41777  
+- CVE-2022-42496  
+
+## 2020
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
+- CyVDB-1563  
+- CyVDB-1620  
+- CyVDB-1780  
+- CyVDB-2651  
+- CyVDB-2652  
+
+🐞[Common Vulnerabilities and Exposures](https://www.cve.org/)  
+- CVE-2020-5612  
+- CVE-2020-5613  
+- CVE-2020-5614  
+
+## 2019
+🐞[Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/)  
+- Security Vulnerabilities  
+
+🐞[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/)  
+- CyVDB-2511  
+- CyVDB-2516  
+- CyVDB-2529  
