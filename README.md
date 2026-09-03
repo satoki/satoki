@@ -1,11 +1,13 @@
 # I'm Satoki Tsuji
-[![CVE](https://img.shields.io/badge/CVE-32-f68826.svg)](https://www.cve.org/) 
-[![Google Bug Hunters](https://img.shields.io/badge/Google_Bug_Hunters-2-202124.svg)](https://bughunters.google.com/profile/577f4342-b9c0-4049-9c54-ca5c2d1bb102) 
-[![Mozilla Security Advisories](https://img.shields.io/badge/Firefox_Bug_Bounty_Rewards-11-ffffff.svg)](https://bugzilla.mozilla.org/user_profile?user_id=706819) 
-[![Cybozu Bug Bounty](https://img.shields.io/badge/Cybozu_Bug_Bounty-17-64bdd4.svg)](https://cybozu.co.jp/products/bug-bounty/)  
+👻 Cyber Security Engineer ?  
+
+
+## 😈[Hack](Hack.md)
+
+## 🗣️Conferences
 [![AVTOKYO (Speaker)](https://img.shields.io/badge/AVTOKYO_(Speaker)-2020,_2023,_2024,_2025-000000.svg)](https://www.avtokyo.org/) 
 [![Hack Fes. (Speaker)](https://img.shields.io/badge/Hack_Fes._(Speaker)-2024,_2026-0d6fb8.svg)](https://www.hacker.or.jp/) 
-[![Security Analyst Summit (Speaker)](https://img.shields.io/badge/Security_Analyst_Summit_(Speaker)-2024-37ddd9.svg)](https://thesascon.com/) 
+[![Security Analyst Summit (Speaker)](https://img.shields.io/badge/Security_Analyst_Summit_(Speaker)-2024,_2026-37ddd9.svg)](https://thesascon.com/) 
 [![m0leCon (Speaker)](https://img.shields.io/badge/m0leCon_(Speaker)-2025-294b3c.svg)](https://m0lecon.it/) 
 [![TyphoonCon (Speaker)](https://img.shields.io/badge/TyphoonCon_(Speaker)-2025-00a9b0.svg)](https://typhooncon.com/) 
 [![HITCON (Speaker)](https://img.shields.io/badge/HITCON_(Speaker)-2025,_2026-000000.svg)](https://hitcon.org/) 
@@ -16,12 +18,15 @@
 [![SEC-T (Speaker)](https://img.shields.io/badge/SEC--T_(Speaker)-2026-9e3333.svg)](https://sec-t.org/) 
 [![Off-by-One (Speaker)](https://img.shields.io/badge/Off--by--One_(Speaker)-2026-7d5ba6.svg)](https://offbyone.sg/) 
 [![No Hat (Accepted)](https://img.shields.io/badge/No_Hat_(Accepted)-2026-1d901d.svg)](https://www.nohat.it/) 
-[![Power of Community (Speaker)](https://img.shields.io/badge/Power_of_Community_(Speaker)-2026-d9002b.svg)](https://powerofcommunity.net/)  
+[![Power of Community (Speaker)](https://img.shields.io/badge/Power_of_Community_(Speaker)-2026-d9002b.svg)](https://powerofcommunity.net/) 
+[![CODE BLUE (Speaker)](https://img.shields.io/badge/CODE_BLUE_(Speaker)-2026-007aff.svg)](https://codeblue.jp/)  
+
+## 🚩Capture The Flag
 [![SECCON Beginners (Organizer)](https://img.shields.io/badge/SECCON_Beginners_(Organizer)-2021,_2022,_2023,_2024-66ee33.svg)](https://www.seccon.jp/) 
 [![SECCON (Organizer)](https://img.shields.io/badge/SECCON_(Organizer)-2023,_2024-e41012.svg)](https://www.seccon.jp/)  
 [![DEF CON CTF Finals (Player)](https://img.shields.io/badge/DEF_CON_CTF_Finals_(Player)-30,_31,_32,_33,_34-7777ff.svg)](https://defcon.org/) 
 [![MOCA CTF Finals (Player)](https://img.shields.io/badge/MOCA_CTF_Finals_(Player)-2024-37e176.svg)](https://moca.camp/) 
-[![SAS CTF Finals (Player)](https://img.shields.io/badge/SAS_CTF_Finals_(Player)-2024,_2025,_2026-37ddd9.svg)](https://ctf.thesascon.com/) 
+[![SAS CTF Finals (Player)](https://img.shields.io/badge/SAS_CTF_Finals_(Player)-2024,_2025-37ddd9.svg)](https://ctf.thesascon.com/) 
 [![DefCamp CTF Finals (Player)](https://img.shields.io/badge/DefCamp_CTF_Finals_(Player)-2024-0071ce.svg)](https://def.camp/) 
 [![Midnight Flag CTF Finals (Player)](https://img.shields.io/badge/Midnight_Flag_CTF_Finals_(Player)-2025,_2026-6f31a7.svg)](https://midnightflag.fr/) 
 [![TSG CTF Finals (Player)](https://img.shields.io/badge/TSG_CTF_Finals_(Player)-2025-9971e1.svg)](https://ctf.tsg.ne.jp/) 
@@ -30,12 +35,13 @@
 [![CODEGATE CTF Finals (Player)](https://img.shields.io/badge/CODEGATE_CTF_Finals_(Player)-2026-ff5215.svg)](https://ctf.codegate.org/) 
 [![DiceCTF Finals (Player)](https://img.shields.io/badge/DiceCTF_Finals_(Player)-2026-dd2e44.svg)](https://ctf.dicega.ng/) 
 [![Hackceler8 (Player)](https://img.shields.io/badge/Hackceler8_(Player)-2026-6b47ab.svg)](https://capturetheflag.withgoogle.com/hackceler8)  
+
+## 🔥Programs
 [![SecHack365](https://img.shields.io/badge/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) 
 [![Security Next Camp](https://img.shields.io/badge/Security_Next_Camp-2022-41b487.svg)](https://www.security-camp.or.jp/) 
 [![MITOU Advanced](https://img.shields.io/badge/MITOU_ADVANCED-2025-d90000.svg)](https://www.ipa.go.jp/jinzai/mitou/advanced/index.html) 
 [![Kakusei Project](https://img.shields.io/badge/Kakusei_Project-2026-9400ff.svg)](https://kakusei.aist.go.jp/)  
+
+## 💥Pwn2Own
 [![Pwn2Own Berlin 2026](https://img.shields.io/badge/Pwn2Own_Berlin_2026-3-1b8fd5.svg)](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule)  
 
-👻 Cyber Security Engineer ?  
-
-## 😈[Hack](Hack.md)
