@@ -43,5 +43,5 @@
 [![Kakusei Project](https://img.shields.io/badge/Kakusei_Project-2026-9400ff.svg)](https://kakusei.aist.go.jp/)  
 
 ## 💥Pwn2Own
-[![Pwn2Own Berlin 2026](https://img.shields.io/badge/Pwn2Own_Berlin_2026-3-1b8fd5.svg)](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule)  
-
+[![Pwn2Own Berlin 2026](https://img.shields.io/badge/Pwn2Own_Berlin_2026-3-00a4e0.svg)](https://www.zerodayinitiative.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule) 
+[![Pwn2Own Ireland 2026 (Master of Pwn)](https://img.shields.io/badge/Pwn2Own_Ireland_2026_(Master_of_Pwn)-4-00a4e0.svg)](https://www.zerodayinitiative.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule)  

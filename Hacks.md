@@ -6,6 +6,12 @@
 - LiteLLM (Prize:$8,000 / Master of Pwn Points:1.75)  
 - OpenAI Codex (Prize:$20,000 / Master of Pwn Points:4 / CVE-2026-19593)  
 
+💥[Pwn2Own Ireland 2026](https://www.zerodayinitiative.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule)  
+- Samsung Galaxy S26 - Remote (Prize:$11,000 / Master of Pwn Points:4.5)  
+- OpenAI Codex (Prize:$40,000 / Master of Pwn Points:4)  
+- Oracle Autonomous AI Database (Prize:$10,000 / Master of Pwn Points:4)  
+- Google Pixel 10 - Remote (Prize:$300,000 / Master of Pwn Points:30)  
+
 🐞[Mozilla Security Advisories](https://www.mozilla.org/en-US/security/advisories/)  
 - CVE-2026-4717  
 - CVE-2026-6768  
